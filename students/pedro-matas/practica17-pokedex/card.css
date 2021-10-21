@@ -1,0 +1,30 @@
+.divTipo{
+    display: flex;
+    
+    background-color: yellow;
+}
+
+.divTipoCont{
+    margin-right: 1rem;
+}
+
+.container{
+    
+    
+    width: 10%;
+    margin: 1rem;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+.contenedor-principal{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pId{
+    display: flex;
+    
+   text-align: right;
+   justify-content: right;
+    color: blue;
+}
